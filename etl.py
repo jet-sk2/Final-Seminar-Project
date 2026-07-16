@@ -2,7 +2,7 @@
 ETL for the 2023 Equibase U.S. Thoroughbred dataset.
 
 Two raw sources:
-  - "2023 Result Charts.zip"  -> TRKyyyymmddtch.xml   (post-race charts; also our label source)
+  - "2023 Result Charts.zip"  -> TRKyyyymmddtch.xml   (post-race charts)
   - "2023 PPs.zip"            -> SIMDyyyymmddTRK_CTR.zip -> .xml (pre-race entry/PP files; used only
                                   for morning-line odds, which Result Charts do not carry pre-race)
 
