@@ -1,4 +1,4 @@
-"""Race-grouped evaluation metrics for the winner-prediction task (Section D / #17 of the task framing)."""
+"""Race-grouped evaluation metrics for the winner-prediction task."""
 import numpy as np
 import pandas as pd
 from sklearn.metrics import log_loss, roc_auc_score, brier_score_loss
